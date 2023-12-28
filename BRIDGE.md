@@ -23,6 +23,6 @@ If you already have a domain name and a Lightning node and are ready to get star
 
 If you'd like to host a Bridge Server on your own infrastructure to allow for you (and anyone else you would like to give access to) to connect your Lightning Address to a Lightning node, you can use [Satdress](https://github.com/fiatjaf/satdress). Satdress is a federated lightning addresses server.
 
-Similar to `bridgeaddr` you can simply enter a few parameters on DNS and quickly connect your non-custodial Lightning node to a Lightning Address. It's a Simple plug-n-play server for supporting [Lightning Address](https://lightningaddress.com) protocol.
+Similar to `bridgeaddr` you can simply enter a few parameters on DNS and quickly connect your non-custodial Lightning node to a Lightning Address. It's a Simple plug-n-play server for supporting [Lightning Address](https://bmail.luvnft.com) protocol.
 
 Satdress also has a simple web-facing user interface to provide an easy-to-use form to connect nodes to addresses.

@@ -17,11 +17,11 @@ export default function Home() {
   return (
     <>
       <Head>
-        <title>The Lightning Address</title>
-        <link rel="icon" type="image/png" href="https://i.imgur.com/4yaPtA2.png" />
+        <title>B-MAIL</title>
+        <link rel="icon" type="image/png" href="https://imgur.com/RnWXx5m" />
         <meta
           property="og:title"
-          content="The Lightning Address"
+          content="B-MAIL"
         />
         <meta
           property="og:type"
@@ -29,7 +29,7 @@ export default function Home() {
         />
         <meta
           property="og:url"
-          content="https://lightningaddress.com"
+          content="https://bmail.luvnft.com"
         />
         <meta
           property="og:description"
@@ -37,7 +37,7 @@ export default function Home() {
         />
         <meta
           property="og:image"
-          content="https://i.imgur.com/wL4cC1t.png"
+          content="https://imgur.com/a/T3UC3nt"
         />
 
         <meta name="twitter:card" content="summary_large_image" />
@@ -45,9 +45,9 @@ export default function Home() {
         <meta name="twitter:creator" content="@andreneves" />
         <meta name="twitter:title" content="The Lightning Address" />
         <meta name="twitter:description" content="Like an email address, but for your Bitcoin. A massively simpler way for anyone to send you Bitcoin instantly on the Lightning Network. No scanning QR codes or pasting invoices." />
-        <meta name="twitter:image" content="https://i.imgur.com/wL4cC1t.png" />
+        <meta name="twitter:image" content="https://imgur.com/a/T3UC3nt" />
 
-        <script defer data-domain="lightningaddress.com" src="https://plausible.io/js/plausible.js" />
+        <script defer data-domain="bmail.luvnft.com" src="https://plausible.io/js/plausible.js" />
       </Head>
       <Wrapper>
         <Hero />

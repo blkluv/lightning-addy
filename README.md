@@ -8,7 +8,7 @@
 
 The Lightning Address is an [Internet Identifier](https://datatracker.ietf.org/doc/html/rfc5322#section-3.4.1) that allows anyone to send you Bitcoin over the Lightning Network. No scanning of QR codes or pasting invoices necessary.
 
-For more information check out the website: [lightningaddress.com](https://lightningaddress.com)
+For more information check out the website: [lightningaddress.com](https://bmail.luvnft.com)
 
 ## Developers
 
