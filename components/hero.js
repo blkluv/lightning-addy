@@ -237,7 +237,7 @@ export class Hero extends PureComponent {
       <Wrapper>
         <Fade bottom cascade when={showIntro}>
           <Intro>Introducing</Intro>
-          <Title>The Lightning Address</Title>
+          <Title>B-MAIL</Title>
         </Fade>
         <Fade bottom when={showLightningAddr}>
           <Description>
@@ -269,11 +269,11 @@ export class Hero extends PureComponent {
         <Fade bottom when={showCTAs}>
           <CTAWrapper>
             <CTAPrimary href="#providers">Get a Lightning Address</CTAPrimary>
-            <CTASecondary href="https://github.com/andrerfneves/lightning-address/blob/master/README.md" target="_blank">Read Documentation</CTASecondary>
+            <CTASecondary href="https://discord.com/channels/910051231437819914/shop" target="_blank">Subscribe to LUV NFT</CTASecondary>
           </CTAWrapper>
           <LicenseWrapper>
-            <LicenseText>License: MIT</LicenseText>
-            <LicenseLink href='https://github.com/andrerfneves/lightning-address/blob/master/LICENSE.md' target='_blank'>GitHub</LicenseLink>
+            <LicenseText>Made With</LicenseText>
+            <LicenseLink href='https://luvnft.com' target='_blank'>LUV NFT</LicenseLink>
           </LicenseWrapper>
         </Fade>
       </Wrapper>
