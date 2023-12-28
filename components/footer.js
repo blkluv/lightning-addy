@@ -11,24 +11,24 @@ const FOOTER = [
     title: 'Resources',
     items: [
       {
-        link: 'https://github.com/andrerfneves/lightning-address/blob/master/README.md',
-        title: 'Dev Documentation'
+        link: 'https://github.com/blkluv/lightning-address/blob/master/README.md',
+        title: 'Accept Bitcoin for your business'
       },
       {
-        link: 'https://github.com/andrerfneves/lightning-address',
+        link: 'https://discord.com/channels/910051231437819914/955169456244539402',
+        title: 'Buy exisiting Bitcoin domains'
+      },
+      {
+        link: 'https://github.com/blkluv/lightning-address',
         title: 'Code Repository'
+      },
+      {
+        link: 'https://discord.com/channels/1163344441436819497/shop',
+        title: 'Buy & Sell CRE With Bitcoin'
       },
       {
         link: 'https://lightningdecoder.com',
         title: 'Lightning Address Decoder'
-      },
-      {
-        link: URL_INTERNET_IDENTIFIER,
-        title: 'Internet Identifier RFC'
-      },
-      {
-        link: 'https://github.com/fiatjaf/lnurl-rfc',
-        title: 'LNURL RFC'
       }
     ]
   },
@@ -290,8 +290,8 @@ export const Footer = () => (
               />
             </a>
           </BottomQR>
-          <BottomLogo>The Lightning Address</BottomLogo>
-          <BottomMadeBy>Made with ♥ by Bitcoiners</BottomMadeBy>
+          <BottomLogo>BMAIL</BottomLogo>
+          <BottomMadeBy>Made with ♥ LUV NFT</BottomMadeBy>
         </BottomInner>
       </Bottom>
     </InnerWrapper>
